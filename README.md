@@ -37,6 +37,10 @@ A parametric whoop canopy. Instances for BETAFPV C03 and HDZero Lux cameras incl
 
 **Recommended Print Settings:** ASA / PETG / Hard TPU, 0.20mm layer height, 100% infill. Print with no supports and 2 layer raft to prevent warping, or with supports under camera harness.
 
+**Printables:** https://www.printables.com/model/1496470-parametric-whoop-canopy
+
+**Thingiverse:** https://www.thingiverse.com/thing:7215236
+
 ## License
 
 [![CC-BY](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
