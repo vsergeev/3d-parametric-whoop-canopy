@@ -3,6 +3,10 @@
  * https://github.com/vsergeev/3d-parametric-whoop-canopy
  * CC-BY-4.0
  * v1.0
+ *
+ * Release Notes
+ *  * v1.0 - 11/27/2025
+ *      * Initial release.
  ********************************************************/
 
 include <canopy.scad>;
